@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Naimooo
+- 👀 I’m interested in web developping
+- 🌱 I’m currently learning html/css/php/js
